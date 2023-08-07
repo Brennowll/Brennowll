@@ -1,5 +1,3 @@
-<img src="https://github.com/Brennowll/Brennowll/blob/main/images/Banner.png">
-
 <h1 align="center">
   Hey!! I'm Brenno, How's it going? 
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
