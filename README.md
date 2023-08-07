@@ -1,3 +1,5 @@
+<img src="https://github.com/Brennowll/Brennowll/blob/main/images/RedBanner.png">
+
 <h1 align="center">
   Hey!! I'm Brenno, How's it going? 
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
@@ -19,6 +21,4 @@
 <h3>Complementary</h3>
 <img src="https://skillicons.dev/icons?i=tailwind,mysql,figma,aws,linux&perline=14" />
 
-<br></br>
-
-<img src="https://github.com/Brennowll/Brennowll/blob/main/images/Banner.png">
+<img src="https://github.com/Brennowll/Brennowll/blob/main/images/RedBanner.png">
