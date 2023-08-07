@@ -20,5 +20,3 @@
 
 <h3>Complementary</h3>
 <img src="https://skillicons.dev/icons?i=tailwind,mysql,figma,aws,linux&perline=14" />
-
-<img src="https://github.com/Brennowll/Brennowll/blob/main/images/RedBanner.png">
