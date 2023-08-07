@@ -5,27 +5,26 @@
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
+- I'm a brazilian fullstack developer that have been studying for a year
+- Learning devops basics
+
 <div>
-  <div>
-    - I'm a brazilian fullstack developer that have been studying for a year
-    - 
-    - Learning devops basics
-  </div>
-  <div>
-    <img  align="center" style="width:49%;height:200px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Brennowll&theme=dark&hide_border=true" />
-    <img  align="center" style="width:49%;height:180px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brennowll&theme=dark&hide_border=True&no-bg=true&no-frame=true&langs_count=2"/>
-  </div>
+  <img  align="center" style="width:49%;height:200px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Brennowll&theme=dark&hide_border=true&mode=weekly" />
+  <img  align="center" style="width:49%;height:190px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brennowll&theme=dark&hide_border=True&no-bg=true&no-frame=true&langs_count=2"/>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
+<h2>Tech Stack</h2>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<div style="width=49%">
+  <h3>Focus</h3>
+  <img src="https://skillicons.dev/icons?i=typescript,react,python,django&perline=14" />
+</div>
+
+<div style="width=49%">
+  <h3>Complementary</h3>
+  <img src="https://skillicons.dev/icons?i=tailwind,mysql,figma,aws,linux&perline=14" />
+</div>
+
+<br></br>
+
+<img src="https://ibb.co/TH09ZCB">
