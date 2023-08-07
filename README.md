@@ -9,8 +9,8 @@
 - Learning devops basics
 
 <div>
-  <img  align="center" style="width:49%;height:180px" src="https://github-readme-streak-stats.herokuapp.com?user=Brennowll&theme=dark&border_radius=4.5&mode=weekly&background=A40C0C&border=EBEBEB&ring=EBEBEB&dates=EBEBEB7C&fire=EBEBEB" />
-  <img  align="center" style="width:49%;height:200px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brennowll&border_radius=7&langs_count=2&bg_color=A40C0C&card_width=450&theme=dark&text_color=#EBEBEB"/>
+  <img  align="center" style="width:49%;height:170px" src="https://github-readme-streak-stats.herokuapp.com?user=Brennowll&theme=dark&border_radius=4.5&mode=weekly&background=A40C0C&border=EBEBEB&ring=EBEBEB&dates=EBEBEB7C&fire=EBEBEB" />
+  <img  align="center" style="width:49%;height:200px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brennowll&border_radius=7&langs_count=2&bg_color=A40C0C&card_width=495&theme=dark&text_color=#EBEBEB"/>
 </div>
 
 <h2 align="center">Tech Stack</h2>
