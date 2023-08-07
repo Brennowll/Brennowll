@@ -5,18 +5,29 @@
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
-- I'm a brazilian fullstack developer that have been studying for a year
+- I'm a brazilian fullstack developer
 - Learning devops basics
+- A dancer artist in free time (Instagram link)
+- Email: bomtempobrenno@gmail.com
 
-<div>
-  <img  align="center" style="width:49%;height:170px" src="https://github-readme-streak-stats.herokuapp.com?user=Brennowll&theme=dark&border_radius=4.5&mode=weekly&background=A40C0C&border=EBEBEB&ring=EBEBEB&dates=EBEBEB7C&fire=EBEBEB" />
-  <img  align="center" style="width:49%;height:200px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brennowll&border_radius=7&langs_count=2&bg_color=A40C0C&card_width=425&theme=dark&text_color=#EBEBEB"/>
-</div>
 
-<h2 align="center">Tech Stack</h2>
+
+<a href="https://www.linkedin.com/in/brenno-bomtempo/">
+  <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+</a>
+<a href="https://www.instagram.com/brennowll/">
+  <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
+</a>
+
+<h2>Tech Stack</h2>
 
 <h3>Focus</h3>
 <img src="https://skillicons.dev/icons?i=typescript,react,python,django&perline=14" />
 
 <h3>Complementary</h3>
 <img src="https://skillicons.dev/icons?i=tailwind,mysql,figma,aws,linux&perline=14" />
+
+<div>
+  <img  align="center" style="width:49%;height:170px" src="https://github-readme-streak-stats.herokuapp.com?user=Brennowll&theme=dark&border_radius=4.5&mode=weekly&background=A40C0C&border=EBEBEB&ring=EBEBEB&dates=EBEBEB7C&fire=EBEBEB" />
+  <img  align="center" style="width:49%;height:200px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brennowll&border_radius=7&langs_count=2&bg_color=A40C0C&card_width=425&theme=dark&text_color=#EBEBEB"/>
+</div>
