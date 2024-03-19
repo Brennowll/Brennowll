@@ -30,5 +30,6 @@
 <div>
   <img  align="center" style="width:49%;height:170px" src="https://github-readme-streak-stats.herokuapp.com?user=Brennowll&theme=dark&border_radius=4.5&mode=weekly&background=A40C0C&border=EBEBEB&ring=EBEBEB&dates=EBEBEB7C&fire=EBEBEB" />
   [![GitHub Streak](https://streak-stats.demolab.com?user=Brennowll&theme=dark&mode=weekly&fire=EBEBEB&ring=EBEBEB&background=A40C0C)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Brennowll&theme=dark&mode=weekly&fire=EBEBEB&ring=EBEBEB&background=A40C0C" alt="GitHub Streak" /></a>
   <img  align="center" style="width:49%;height:200px"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brennowll&border_radius=7&langs_count=2&bg_color=A40C0C&card_width=425&theme=dark&text_color=#EBEBEB"/>
 </div>
