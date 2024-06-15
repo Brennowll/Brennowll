@@ -9,6 +9,7 @@
 - Learning devops basics
 - A dancer artist in free time (Instagram link)
 - Email: bomtempobrenno@gmail.com
+- Portfolio: https://brennobomtempo.me/
 
 
 
