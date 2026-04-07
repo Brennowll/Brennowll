@@ -5,8 +5,7 @@
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
-- I'm a brazilian fullstack developer
-- Learning devops basics
+- I'm a brazilian fullstack developer - devops
 - A dancer artist in free time (Instagram link)
 - Email: bomtempobrenno@gmail.com
 - Portfolio: https://brennobomtempo.me/
