@@ -22,10 +22,10 @@
 <h2>Tech Stack</h2>
 
 <h3>Focus</h3>
-<img src="https://skillicons.dev/icons?i=typescript,react,python,django&perline=14" />
+<img src="https://skillicons.dev/icons?i=typescript,react,python,django,php&perline=14" />
 
 <h3>Complementary</h3>
-<img src="https://skillicons.dev/icons?i=tailwind,mysql,figma,aws,linux&perline=14" />
+<img src="https://skillicons.dev/icons?i=tailwind,mysql,figma,aws,linux,github-actions&perline=14" />
 
 <div>
   <img align="center" style="width:49%;height:170px" src="https://streak-stats.demolab.com?user=Brennowll&theme=dark&mode=weekly&fire=EBEBEB&ring=EBEBEB&background=A40C0C" alt="GitHub Streak" />
